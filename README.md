@@ -43,7 +43,7 @@ If you have suggestions for improvements or encounter any issues, please feel fr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [SIYAL License](LICENSE.md).
 
 ---
 
