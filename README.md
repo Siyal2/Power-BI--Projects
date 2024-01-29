@@ -37,14 +37,4 @@ This Power BI dashboard provides a comprehensive analysis of e-commerce orders, 
 
 - **E-commerce Orders Data:** Ensure that your e-commerce orders data is compatible with the provided dashboard.
 
-## Contributing
 
-If you have suggestions for improvements or encounter any issues, please feel free to [create an issue](link-to-issues-page) or submit a pull request.
-
-## License
-
-This project is licensed under the [SIYAL License](LICENSE.md).
-
----
-
-**Note:** Replace placeholders such as `[create an issue](link-to-issues-page)` with the appropriate links and details for your project.
